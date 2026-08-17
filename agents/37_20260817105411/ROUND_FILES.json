@@ -1,9 +1,0 @@
-{
-  "processId" : 37,
-  "roundKey" : "37_20260817105411",
-  "roundId" : "37_20260817105411",
-  "inputFiles" : [ "普通食品数据源_20260817105410_普通食品国抽数据_20260815225019_普通食品-滨海-1020-测试.xlsx", "食用农产品数据源_20260817105410_农产品国抽数据_20260815225019_食用农产品-滨海-1020-测试.xlsx" ],
-  "outputTemplateFiles" : [ "吴中区食品安全抽检情况汇总表_20260816235435.xls" ],
-  "expectedOutputs" : [ "吴中区食品安全抽检情况汇总表" ],
-  "rule" : "ONLY read files under agents/37_20260817105411/ that appear in inputFiles. Ignore other agents/* directories."
-}
