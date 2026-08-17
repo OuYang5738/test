@@ -1,0 +1,9 @@
+{
+  "processId" : 50,
+  "roundKey" : "20260817143031-p50",
+  "roundId" : "20260817143031-p50",
+  "inputFiles" : [ "筛查用数据源_20260817143026_筛查用数据源.xlsx" ],
+  "outputTemplateFiles" : [ "筛查用数据源_1.xlsx" ],
+  "expectedOutputs" : [ "标准输出" ],
+  "rule" : "ONLY read files under 表格表解/20260817143031-p50/输入源/ that appear in inputFiles. Write results only under 表格表解/20260817143031-p50/输出源/. Ignore other batch folders."
+}
