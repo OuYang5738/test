@@ -1,0 +1,9 @@
+{
+  "processId" : 47,
+  "roundKey" : "20260817132315-p47",
+  "roundId" : "20260817132315-p47",
+  "inputFiles" : [ "普通食品数据源_20260817132312_20251031115600.xlsx" ],
+  "outputTemplateFiles" : [ "（中检溯源）吴中区食品安全抽检情况汇总表-模板.xls" ],
+  "expectedOutputs" : [ "吴中区食品安全抽检信息汇总表" ],
+  "rule" : "ONLY read files under 表格表解/20260817132315-p47/输入源/ that appear in inputFiles. Write results only under 表格表解/20260817132315-p47/输出源/. Ignore other batch folders."
+}
