@@ -1,0 +1,9 @@
+{
+  "processId" : 52,
+  "roundKey" : "20260817173034-p52",
+  "roundId" : "20260817173034-p52",
+  "inputFiles" : [ "普通食品数据源_20260817173030_XC检验数据270批次.xlsx" ],
+  "outputTemplateFiles" : [ ],
+  "expectedOutputs" : [ "合格公示表", "不合格公示表" ],
+  "rule" : "ONLY read files under 表格表解/20260817173034-p52/输入源/ that appear in inputFiles. Write results only under 表格表解/20260817173034-p52/输出源/. Ignore other batch folders."
+}
