@@ -1,0 +1,9 @@
+{
+  "processId" : 49,
+  "roundKey" : "20260817140538-p49",
+  "roundId" : "20260817140538-p49",
+  "inputFiles" : [ "普通食品国抽数据_20260817140537_XC检验数据270批次.xlsx" ],
+  "outputTemplateFiles" : [ "中检溯源-吴中区2025年2月春季校园专项抽检计划分析报告.docx" ],
+  "expectedOutputs" : [ "吴中分析报告" ],
+  "rule" : "ONLY read files under 表格表解/20260817140538-p49/输入源/ that appear in inputFiles. Write results only under 表格表解/20260817140538-p49/输出源/. Ignore other batch folders."
+}
