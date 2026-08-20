@@ -1,0 +1,9 @@
+{
+  "processId" : 53,
+  "roundKey" : "20260820194232-p53",
+  "roundId" : "20260820194232-p53",
+  "inputFiles" : [ "普通食品数据源`_20260820194229_20260813170100.xlsx" ],
+  "outputTemplateFiles" : [ "附件3：2026年苏州市网络餐饮专项抽样检验信息汇总表.xlsx" ],
+  "expectedOutputs" : [ "苏州市网络餐饮专项抽样检验信息汇总表" ],
+  "rule" : "ONLY read files under 表格表解/20260820194232-p53/输入源/ that appear in inputFiles. Write results only under 表格表解/20260820194232-p53/输出源/. Ignore other batch folders."
+}
