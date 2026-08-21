@@ -1,0 +1,9 @@
+{
+  "processId" : 56,
+  "roundKey" : "20260821105258-p56",
+  "roundId" : "20260821105258-p56",
+  "inputFiles" : [ "普通食品数据源_20260821105252_20260813170100.xlsx" ],
+  "outputTemplateFiles" : [ "5中检溯源-溧水区抽检信息汇总表-12月份99批次1210.xlsx" ],
+  "expectedOutputs" : [ "溧水区抽检信息汇总表" ],
+  "rule" : "ONLY read files under 表格表解/20260821105258-p56/输入源/ that appear in inputFiles. Write results only under 表格表解/20260821105258-p56/输出源/. Ignore other batch folders."
+}
