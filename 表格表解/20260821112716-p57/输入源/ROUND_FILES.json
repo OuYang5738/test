@@ -1,0 +1,9 @@
+{
+  "processId" : 57,
+  "roundKey" : "20260821112716-p57",
+  "roundId" : "20260821112716-p57",
+  "inputFiles" : [ "普通食品数据源_20260821112715_20260813170100.xlsx" ],
+  "outputTemplateFiles" : [ "7中检溯源-抽检汇总表（每月累计）4-7月247批次20260804.xls" ],
+  "expectedOutputs" : [ "7中检溯源-抽检汇总表" ],
+  "rule" : "ONLY read files under 表格表解/20260821112716-p57/输入源/ that appear in inputFiles. Write results only under 表格表解/20260821112716-p57/输出源/. Ignore other batch folders."
+}
