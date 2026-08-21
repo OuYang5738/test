@@ -1,0 +1,9 @@
+{
+  "processId" : 55,
+  "roundKey" : "20260821105242-p55",
+  "roundId" : "20260821105242-p55",
+  "inputFiles" : [ "普通食品数据源_20260821105242_20260813170100.xlsx" ],
+  "outputTemplateFiles" : [ "6阜宁县明细表（中检溯源）.xls" ],
+  "expectedOutputs" : [ "6阜宁县明细表（中检溯源）" ],
+  "rule" : "ONLY read files under 表格表解/20260821105242-p55/输入源/ that appear in inputFiles. Write results only under 表格表解/20260821105242-p55/输出源/. Ignore other batch folders."
+}
