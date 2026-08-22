@@ -1,0 +1,9 @@
+{
+  "processId" : 65,
+  "roundKey" : "20260822131809-p65",
+  "roundId" : "20260822131809-p65",
+  "inputFiles" : [ "普通食品数据源_20260822131802_20260309105700.xlsx", "吴中结算单价_20260822131807_吴中结算单价.xlsx" ],
+  "outputTemplateFiles" : [ "中检溯源-吴中区1月检测费用统计（200批次）.xlsx" ],
+  "expectedOutputs" : [ "中检溯源-吴中区1月检测费用统计（200批次）" ],
+  "rule" : "ONLY read files under 表格表解/20260822131809-p65/输入源/ that appear in inputFiles. Write results only under 表格表解/20260822131809-p65/输出源/. Ignore other batch folders."
+}
