@@ -1,0 +1,9 @@
+{
+  "processId" : 54,
+  "roundKey" : "20260824104352-p54",
+  "roundId" : "20260824104352-p54",
+  "inputFiles" : [ "筛查用数据源_20260824104352__e2e_sample.xlsx" ],
+  "outputTemplateFiles" : [ "筛查用数据源_1.xlsx" ],
+  "expectedOutputs" : [ "标准输出" ],
+  "rule" : "ONLY read files under 表格表解/20260824104352-p54/输入源/ that appear in inputFiles. Write results only under 表格表解/20260824104352-p54/输出源/. Ignore other batch folders."
+}
