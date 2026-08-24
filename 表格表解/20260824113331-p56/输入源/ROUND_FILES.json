@@ -1,0 +1,9 @@
+{
+  "processId" : 56,
+  "roundKey" : "20260824113331-p56",
+  "roundId" : "20260824113331-p56",
+  "inputFiles" : [ "普通食品数据_20260824113331__flow_input.xlsx" ],
+  "outputTemplateFiles" : [ "汇总表_20260824113330.xlsx" ],
+  "expectedOutputs" : [ "汇总表" ],
+  "rule" : "ONLY read files under 表格表解/20260824113331-p56/输入源/ that appear in inputFiles. Write results only under 表格表解/20260824113331-p56/输出源/. Ignore other batch folders."
+}
