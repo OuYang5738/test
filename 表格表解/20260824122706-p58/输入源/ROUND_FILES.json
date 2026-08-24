@@ -1,0 +1,9 @@
+{
+  "processId" : 58,
+  "roundKey" : "20260824122706-p58",
+  "roundId" : "20260824122706-p58",
+  "inputFiles" : [ "E2E-DS_20260824122706_e2e.xlsx" ],
+  "outputTemplateFiles" : [ "汇总表_20260824113330.xlsx" ],
+  "expectedOutputs" : [ "汇总表" ],
+  "rule" : "ONLY read files under 表格表解/20260824122706-p58/输入源/ that appear in inputFiles. Write results only under 表格表解/20260824122706-p58/输出源/. Ignore other batch folders."
+}
