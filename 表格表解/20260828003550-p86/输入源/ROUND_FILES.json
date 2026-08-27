@@ -1,0 +1,9 @@
+{
+  "processId" : 86,
+  "roundKey" : "20260828003550-p86",
+  "roundId" : "20260828003550-p86",
+  "inputFiles" : [ "普通食品数据源_20260828003550_src0.xlsx" ],
+  "outputTemplateFiles" : [ "常州市武进区市场监督管理局----汇总表.xls" ],
+  "expectedOutputs" : [ "武进区市场监督管理局食品安全抽检工作阶段情况汇总表" ],
+  "rule" : "ONLY read files under 表格表解/20260828003550-p86/输入源/ that appear in inputFiles. Write results only under 表格表解/20260828003550-p86/输出源/. Ignore other batch folders."
+}
