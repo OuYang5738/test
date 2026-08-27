@@ -1,0 +1,9 @@
+{
+  "processId" : 84,
+  "roundKey" : "20260828002749-p84",
+  "roundId" : "20260828002749-p84",
+  "inputFiles" : [ "普通食品数据源_20260828002748_src0.xlsx" ],
+  "outputTemplateFiles" : [ ],
+  "expectedOutputs" : [ "合格公示表", "不合格公示表" ],
+  "rule" : "ONLY read files under 表格表解/20260828002749-p84/输入源/ that appear in inputFiles. Write results only under 表格表解/20260828002749-p84/输出源/. Ignore other batch folders."
+}
