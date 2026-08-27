@@ -1,0 +1,9 @@
+{
+  "processId" : 80,
+  "roundKey" : "20260827230732-p80",
+  "roundId" : "20260827230732-p80",
+  "inputFiles" : [ "普通食品数据源_20260827230731_20260813170100.xlsx" ],
+  "outputTemplateFiles" : [ "苏州工业园区汇总表_20260827215350.xls", "苏州工业园区汇总表1_20260827215414.xls", "苏州工业园区汇总表2_20260827215428.xls", "苏州工业园任务汇总表9月211批-中检溯源_1.xls" ],
+  "expectedOutputs" : [ "监督抽检（必填）", "三、抽检监测合格情况汇总", "四、抽检监测不合格情况", "苏州工业园任务汇总表" ],
+  "rule" : "ONLY read files under 表格表解/20260827230732-p80/输入源/ that appear in inputFiles. Write results only under 表格表解/20260827230732-p80/输出源/. Ignore other batch folders."
+}
