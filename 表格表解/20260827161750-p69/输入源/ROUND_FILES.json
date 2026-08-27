@@ -1,0 +1,9 @@
+{
+  "processId" : 69,
+  "roundKey" : "20260827161750-p69",
+  "roundId" : "20260827161750-p69",
+  "inputFiles" : [ "普通食品数据源_20260827161748_20260813170100.xlsx" ],
+  "outputTemplateFiles" : [ "2025年兴化市第三方抽检分配完成表（中检溯源）.xls" ],
+  "expectedOutputs" : [ "兴化市第三方抽检分配完成表" ],
+  "rule" : "ONLY read files under 表格表解/20260827161750-p69/输入源/ that appear in inputFiles. Write results only under 表格表解/20260827161750-p69/输出源/. Ignore other batch folders."
+}
