@@ -1,0 +1,9 @@
+{
+  "processId" : 77,
+  "roundKey" : "20260827213154-p77",
+  "roundId" : "20260827213154-p77",
+  "inputFiles" : [ "普通食品数据源_20260827213148_20260813170100.xlsx" ],
+  "outputTemplateFiles" : [ "苏州工业园区汇总表_20260827211610.xls" ],
+  "expectedOutputs" : [ "苏州工业园区汇总表" ],
+  "rule" : "ONLY read files under 表格表解/20260827213154-p77/输入源/ that appear in inputFiles. Write results only under 表格表解/20260827213154-p77/输出源/. Ignore other batch folders."
+}
