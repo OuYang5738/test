@@ -1,0 +1,9 @@
+{
+  "processId" : 75,
+  "roundKey" : "20260827205728-p75",
+  "roundId" : "20260827205728-p75",
+  "inputFiles" : [ "普通食品数据源_20260827205725_20260813170100.xlsx" ],
+  "outputTemplateFiles" : [ "苏州工业园任务汇总表9月211批-中检溯源.xls" ],
+  "expectedOutputs" : [ "苏州工业园区汇总表" ],
+  "rule" : "ONLY read files under 表格表解/20260827205728-p75/输入源/ that appear in inputFiles. Write results only under 表格表解/20260827205728-p75/输出源/. Ignore other batch folders."
+}
