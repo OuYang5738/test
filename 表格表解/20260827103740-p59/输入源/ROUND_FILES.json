@@ -1,0 +1,9 @@
+{
+  "processId" : 59,
+  "roundKey" : "20260827103740-p59",
+  "roundId" : "20260827103740-p59",
+  "inputFiles" : [ "普通食品数据_20260827103637_mcp-food-sample.xlsx", "普通食品数据_20260827103706_mcp-food-sample.xlsx" ],
+  "outputTemplateFiles" : [ ],
+  "expectedOutputs" : [ "汇总表" ],
+  "rule" : "ONLY read files under 表格表解/20260827103740-p59/输入源/ that appear in inputFiles. Write results only under 表格表解/20260827103740-p59/输出源/. Ignore other batch folders."
+}
