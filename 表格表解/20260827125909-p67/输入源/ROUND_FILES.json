@@ -1,0 +1,9 @@
+{
+  "processId" : 67,
+  "roundKey" : "20260827125909-p67",
+  "roundId" : "20260827125909-p67",
+  "inputFiles" : [ "数据文件_20260827125842_mcp_full_flow.xlsx" ],
+  "outputTemplateFiles" : [ ],
+  "expectedOutputs" : [ ],
+  "rule" : "ONLY read files under 表格表解/20260827125909-p67/输入源/ that appear in inputFiles. Write results only under 表格表解/20260827125909-p67/输出源/. Ignore other batch folders."
+}
