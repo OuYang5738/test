@@ -1,0 +1,9 @@
+{
+  "processId" : 107,
+  "roundKey" : "20260828232338-p107",
+  "roundId" : "20260828232338-p107",
+  "inputFiles" : [ "数据导出654批次_20260828232316_数据导出654批次.xls", "NCP_20260828232317_NCP.xlsx", "XC_20260828232338_XC.xlsx", "25年苏州工业园区价格表_20260828232338_25年苏州工业园区价格表.xlsx" ],
+  "outputTemplateFiles" : [ "结算输出样例_20260828232237A014.xlsx" ],
+  "expectedOutputs" : [ "中检溯源-抽检费用结算明细" ],
+  "rule" : "ONLY read files under 表格表解/20260828232338-p107/输入源/ that appear in inputFiles. Write results only under 表格表解/20260828232338-p107/输出源/. Ignore other batch folders."
+}
