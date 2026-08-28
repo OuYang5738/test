@@ -1,0 +1,9 @@
+{
+  "processId" : 102,
+  "roundKey" : "20260828152658-p102",
+  "roundId" : "20260828152658-p102",
+  "inputFiles" : [ "普通食品数据源_20260828152657_src0.xlsx" ],
+  "outputTemplateFiles" : [ "MCP-AUTO-20260828-152647_20260828152656.xlsx" ],
+  "expectedOutputs" : [ "姑苏区食品安全抽样检验信息汇总表" ],
+  "rule" : "ONLY read files under 表格表解/20260828152658-p102/输入源/ that appear in inputFiles. Write results only under 表格表解/20260828152658-p102/输出源/. Ignore other batch folders."
+}
