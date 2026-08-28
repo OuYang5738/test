@@ -1,0 +1,9 @@
+{
+  "processId" : 103,
+  "roundKey" : "20260828212707-p103",
+  "roundId" : "20260828212707-p103",
+  "inputFiles" : [ "溧水农委数据源_20260828212456_溧水农委-0601-0728.xlsx" ],
+  "outputTemplateFiles" : [ "种植监测汇总表_20260828211918A002.xlsx" ],
+  "expectedOutputs" : [ "2026年农产品质量安全监测数据汇总表（种植）" ],
+  "rule" : "ONLY read files under 表格表解/20260828212707-p103/输入源/ that appear in inputFiles. Write results only under 表格表解/20260828212707-p103/输出源/. Ignore other batch folders."
+}
