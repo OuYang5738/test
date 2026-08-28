@@ -1,0 +1,9 @@
+{
+  "processId" : 93,
+  "roundKey" : "20260828083718-p93",
+  "roundId" : "20260828083718-p93",
+  "inputFiles" : [ "普通食品国抽数据_20260828083717_src0.xlsx", "农产品国抽数据_20260828083718_src1.xlsx" ],
+  "outputTemplateFiles" : [ ],
+  "expectedOutputs" : [ "合格公示表", "不合格公示表" ],
+  "rule" : "ONLY read files under 表格表解/20260828083718-p93/输入源/ that appear in inputFiles. Write results only under 表格表解/20260828083718-p93/输出源/. Ignore other batch folders."
+}
