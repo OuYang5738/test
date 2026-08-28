@@ -1,0 +1,9 @@
+{
+  "processId" : 98,
+  "roundKey" : "20260828115456-p98",
+  "roundId" : "20260828115456-p98",
+  "inputFiles" : [ "普通食品数据源_20260828115456_src0.xlsx" ],
+  "outputTemplateFiles" : [ "姑苏区食品安全抽样检验信息汇总表_20260828115455.xlsx" ],
+  "expectedOutputs" : [ "姑苏区食品安全抽样检验信息汇总表" ],
+  "rule" : "ONLY read files under 表格表解/20260828115456-p98/输入源/ that appear in inputFiles. Write results only under 表格表解/20260828115456-p98/输出源/. Ignore other batch folders."
+}
