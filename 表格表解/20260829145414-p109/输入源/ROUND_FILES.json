@@ -1,0 +1,9 @@
+{
+  "processId" : 109,
+  "roundKey" : "20260829145414-p109",
+  "roundId" : "20260829145414-p109",
+  "inputFiles" : [ "普通食品数据源_20260829145413_正式-普通食品-20260309105700.xlsx", "食用农产品数据源_20260829145414_正式-食用农产品-20260309105700.xlsx" ],
+  "outputTemplateFiles" : [ "网络餐饮汇总输出_20260829143836A017.xlsx" ],
+  "expectedOutputs" : [ "网络餐饮专项抽样检验信息汇总表" ],
+  "rule" : "ONLY read files under 表格表解/20260829145414-p109/输入源/ that appear in inputFiles. Write results only under 表格表解/20260829145414-p109/输出源/. Ignore other batch folders."
+}
