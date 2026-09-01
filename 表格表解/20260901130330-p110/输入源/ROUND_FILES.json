@@ -1,0 +1,9 @@
+{
+  "processId" : 110,
+  "roundKey" : "20260901130330-p110",
+  "roundId" : "20260901130330-p110",
+  "inputFiles" : [ "普通食品国抽数据_20260901130328_20260813170100.xlsx" ],
+  "outputTemplateFiles" : [ ],
+  "expectedOutputs" : [ "合格公示表", "不合格公示表" ],
+  "rule" : "ONLY read files under 表格表解/20260901130330-p110/输入源/ that appear in inputFiles. Write results only under 表格表解/20260901130330-p110/输出源/. Ignore other batch folders."
+}
