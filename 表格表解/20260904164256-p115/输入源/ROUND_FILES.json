@@ -1,0 +1,9 @@
+{
+  "processId" : 115,
+  "roundKey" : "20260904164256-p115",
+  "roundId" : "20260904164256-p115",
+  "inputFiles" : [ "普通食品数据源_20260904164254_20251031115600.xlsx", "LMIS检测项目查询统计_20260904164202_检测项目查询统计-江苏20260812.xlsx" ],
+  "outputTemplateFiles" : [ "AUTOTEST-输出模板-吴中汇总表_20260904140424A004.xlsx" ],
+  "expectedOutputs" : [ "吴中区食品安全抽检信息汇总表" ],
+  "rule" : "ONLY read files under 表格表解/20260904164256-p115/输入源/ that appear in inputFiles. Write results only under 表格表解/20260904164256-p115/输出源/. Ignore other batch folders."
+}
