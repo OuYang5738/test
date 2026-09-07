@@ -1,0 +1,9 @@
+{
+  "processId" : 124,
+  "roundKey" : "20260907232834-p124",
+  "roundId" : "20260907232834-p124",
+  "inputFiles" : [ "食用农产品数据源_20260907232742_NCP-0630.xlsx", "食用农产品数据源_20260907232729_NCP-0907.xlsx", "普通食品数据源_20260907232745_XC-0331.xlsx", "普通食品数据源_20260907232807_XC-0630.xlsx", "普通食品数据源_20260907232817_XC-0907.xlsx", "淮安抽检项目中标单价_20260907232818_淮安抽检项目中标单价.xlsx" ],
+  "outputTemplateFiles" : [ "输出源-淮安抽检项目中标单价样例_20260907232652A008.xlsx" ],
+  "expectedOutputs" : [ "淮安抽检项目中标单价补项结果" ],
+  "rule" : "ONLY read files under 表格表解/20260907232834-p124/输入源/ that appear in inputFiles. Write results only under 表格表解/20260907232834-p124/输出源/. Ignore other batch folders."
+}
