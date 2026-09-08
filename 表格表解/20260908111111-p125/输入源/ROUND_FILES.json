@@ -1,0 +1,9 @@
+{
+  "processId" : 125,
+  "roundKey" : "20260908111111-p125",
+  "roundId" : "20260908111111-p125",
+  "inputFiles" : [ "普通食品数据源_20260908110920_20251031115600.xlsx", "lmis数据源模板_20260908111109_检测项目查询统计-江苏20260812.xlsx" ],
+  "outputTemplateFiles" : [ "吴中结算单价_1.xlsx" ],
+  "expectedOutputs" : [ "吴中结算单价" ],
+  "rule" : "ONLY read files under 表格表解/20260908111111-p125/输入源/ that appear in inputFiles. Write results only under 表格表解/20260908111111-p125/输出源/. Ignore other batch folders."
+}
