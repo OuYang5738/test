@@ -1,0 +1,9 @@
+{
+  "processId" : 131,
+  "roundKey" : "20260908221419-p131",
+  "roundId" : "20260908221419-p131",
+  "inputFiles" : [ "普通食品数据源_20260908221318_20251031115600.xlsx", "lmis数据源模板_20260908221337_检测项目查询统计-江苏20260812.xlsx", "吴中结算单价_20260908221416_吴中结算单价.xlsx" ],
+  "outputTemplateFiles" : [ "中检溯源-吴中区1月检测费用统计（200批次）.xlsx" ],
+  "expectedOutputs" : [ "中检溯源-吴中区1月检测费用统计（200批次）" ],
+  "rule" : "ONLY read files under 表格表解/20260908221419-p131/输入源/ that appear in inputFiles. Write results only under 表格表解/20260908221419-p131/输出源/. Ignore other batch folders."
+}
