@@ -1,0 +1,9 @@
+{
+  "processId" : 134,
+  "roundKey" : "20260909152036-p134",
+  "roundId" : "20260909152036-p134",
+  "inputFiles" : [ "普通食品数据源_20260909152026_金湖抽检合并数据.xlsx", "食用农产品数据源_20260909152025_NCP-0630.xlsx", "食用农产品数据源_20260909152034_NCP-0907.xlsx", "淮安抽检项目中标单价_20260909152029_淮安抽检项目中标单价.xlsx" ],
+  "outputTemplateFiles" : [ "淮安抽检项目中标单价_1.xlsx" ],
+  "expectedOutputs" : [ "淮安抽检项目中标单价" ],
+  "rule" : "ONLY read files under 表格表解/20260909152036-p134/输入源/ that appear in inputFiles. Write results only under 表格表解/20260909152036-p134/输出源/. Ignore other batch folders."
+}
