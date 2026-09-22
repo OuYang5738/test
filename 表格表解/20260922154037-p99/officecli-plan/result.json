@@ -1,1 +1,0 @@
-{"summary":"本轮仅上传普通食品国抽数据，报告分类均为合格报告，无一般不合格报告；不合格公示表保留模板提示行与表头，数据区清空。","outputs":[{"name":"不合格公示表.xlsx","strategy":"template_fill","merge_data":null,"commands":[{"fill":{"path":"/Sheet1/A3","rows":[]}}]}]}
